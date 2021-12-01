@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Binary Search Tree Documentation page!
 
 You can use the [editor on GitHub](https://github.com/NMariscal/BinarySearchTrees/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
