@@ -1,5 +1,7 @@
 ## Welcome to Binary Search Tree Documentation page!
 
+###This is an example of how to create a website page for our documentation. This is recommended for external people read our documentation project. For internal peolpe and project developers we use Wiki. 
+
 You can use the [editor on GitHub](https://github.com/NMariscal/BinarySearchTrees/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
